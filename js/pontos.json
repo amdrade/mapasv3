@@ -1,62 +1,98 @@
 [
-	{
-		"Id": 1,
-        "Latitude": -19.212355602107472,
-        "Longitude": -44.20234468749999,
-		"Descricao": "Conteúdo do InfoBox 1"
+	 {
+		  "Id": 1,
+      "Latitude": -9.6689,
+      "Longitude": -35.7334,
+		  "Descricao": "Sindipetro Alagoas" 
     },
     {
-		"Id": 2,
-        "Latitude": -22.618827234831404,
-        "Longitude": -42.57636812499999,
-		"Descricao": "Conteúdo do InfoBox 2"
+      "Id": 2,
+      "Latitude": -10.908851,
+      "Longitude": -37.068733,
+      "Descricao": "Sindipema"
     },
     {
-		"Id": 3,
-        "Latitude": -22.57825604463875,
-        "Longitude": -48.68476656249999,
-		"Descricao": "Conteúdo do InfoBox 3"
+      "Id": 3,
+      "Latitude": -10.964839,
+      "Longitude": -37.044751,
+      "Descricao": "Sindifisco Sergipe"
     },
-  	{
-		"Id": 4,
-    	"Latitude": -17.082777073226872,
-    	"Longitude": -47.10273531249999,
-		"Descricao": "Conteúdo do InfoBox 4"
-  	},
-  	{
-		"Id": 5,
-    	"Latitude": -22.88936803353243,
-    	"Longitude": -47.03139838867173,
-		"Descricao": "Conteúdo do InfoBox 5"
-  	},
-  	{
-		"Id": 6,
-    	"Latitude": -22.88794472694071,
-    	"Longitude": -47.08066520385728,
-		"Descricao": "Conteúdo do InfoBox 6"
-  	},
-  	{
-		"Id": 7,
-    	"Latitude": -22.899488894308515,
-    	"Longitude": -47.06023749999986,
-		"Descricao": "Conteúdo do InfoBox 7"
-  	},
-  	{
-		"Id": 8,
-    	"Latitude": -22.882132704079144,
-    	"Longitude": -47.060530090490715,
-		"Descricao": "Conteúdo do InfoBox 8"
-  	},
-  	{
-		"Id": 9,
-    	"Latitude": -22.88045235311875,
-    	"Longitude": -47.05914315872184,
-		"Descricao": "Conteúdo do InfoBox 9"
-  	},
-  	{
-		"Id": 10,
-    	"Latitude": -22.87877194865705,
-    	"Longitude": -47.05783424072257,
-		"Descricao": "Conteúdo do InfoBox 10"
-  	}
+    {
+      "Id": 4,
+      "Latitude": -10.919386,
+      "Longitude": -37.055279,
+      "Descricao": "SEEB Sergipe"
+    },
+    {
+      "Id": 5,
+      "Latitude": -10.926441,
+      "Longitude": -37.050638,
+      "Descricao": "Sinpol"
+    },
+    {
+      "Id": 6,
+      "Latitude": -10.913334,
+      "Longitude": -37.078585,
+      "Descricao": "Sindipreve/se"
+    },
+    {
+      "Id": 7,
+      "Latitude": -10.928722,
+      "Longitude": -37.047154,
+      "Descricao": "Sindimed"
+    },
+    {
+      "Id": 8,
+      "Latitude": -9.665812,
+      "Longitude": -35.734868,
+      "Descricao": "Bancários de Alagoas"
+    },
+    {
+      "Id": 9,
+      "Latitude": -9.674665,
+      "Longitude": -35.751327,
+      "Descricao": "Sindifisco de Alagoas"
+    },
+    {
+      "Id": 10,
+      "Latitude": -1.29426,
+      "Longitude": -47.931186,
+      "Descricao": "Sintcomc Pára"
+    },
+    {
+      "Id": 11,
+      "Latitude": -9.666061,
+      "Longitude": -35.731474,
+      "Descricao": "Sintufal"
+    },
+    {
+      "Id": 12,
+      "Latitude": -22.411782,
+      "Longitude": -42.968713,
+      "Descricao": "Anasercoop "
+    },
+    {
+      "Id": 13,
+      "Latitude": -22.83767,
+      "Longitude": -43.30707,
+      "Descricao": "Sinprf RJ"
+    },
+    {
+      "Id": 14,
+      "Latitude": -20.319031,
+      "Longitude": -40.338504,
+      "Descricao": "Sindipublicos ES"
+    },
+    {
+      "Id": 15,
+      "Latitude": -20.319006,
+      "Longitude": -40.338292,
+      "Descricao": "Sindilimpe ES"
+    },
+    {
+		  "Id": 16,
+      "Latitude": -8.052176,
+      "Longitude": -34.875493,
+		  "Descricao": "Sindifisco PE"
+    }
 ]

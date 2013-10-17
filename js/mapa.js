@@ -5,10 +5,10 @@ var markers = [];
 var coords = new Array();
 
 function initialize() {	
-	var latlng = new google.maps.LatLng(-18.8800397, -47.05878999999999);
+	var latlng = new google.maps.LatLng(-12.297068,-50.28717);
 	
     var options = {
-        zoom: 5,
+        zoom: 4,
 		center: latlng,
         mapTypeId: google.maps.MapTypeId.ROADMAP
     };
@@ -39,7 +39,6 @@ carregarCoordenadas();
 function marcarPontos(){
 	var latlngbounds = new google.maps.LatLngBounds();
 	var i = 0;
-	console.log(coords[i]);
 	var interval = setInterval(function(){
 		var marker = new google.maps.Marker({
 			map: map,
@@ -50,8 +49,8 @@ function marcarPontos(){
 		var myOptions = {
 					content: "<p>" + coords[i].Descricao + "</p>",
 					pixelOffset: new google.maps.Size(-150, 0)
-        		};
-var id = coords[i].Id;
+	       		};
+		var id = coords[i].Id;
 		infoBox[coords[i].Id] = new InfoBox(myOptions);
 		infoBox[coords[i].Id].marker = marker;
 			
@@ -71,8 +70,5 @@ var id = coords[i].Id;
 		}
 			
 	},1000);
-	
 }
-
-
-//carregarPontos();
+marcarPontos();
